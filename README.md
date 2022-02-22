@@ -1,1 +1,3 @@
-# projeto-de-estudo-copia-do-site-instagram
+## Clone do Instagram, utilizando FlexBox e Media Query
+
+<img scr = href="print.png"
